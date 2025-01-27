@@ -38,7 +38,6 @@
     <li>이화여자대학교 학보사 사진기자 (2022.09 ~ 2022.12)</li>
     <li>제 3회 OUTTA AI bootcamp (2024.07 ~ 2024.08)</li>
     <li>University MakeUs Challenge(UMC) Ewha 7th : Server (2024.09 ~ 2025.02)</li>
-    <li>ICPC Sinchon Algorithm Camp (2025.01 ~ 2025.02)</li>
   </ul>
 </div>
 
