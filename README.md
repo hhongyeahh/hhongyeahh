@@ -35,7 +35,7 @@
   <ul>
     <li>중앙대학교 다큐멘터리 사진 동아리 ‘현장’</li>
     <li>중앙대학교 공연/전시 동아리 위드아트 - ‘청춘’ 전시</li>
-    <li>이화여자대학교 학보사 사진기자 (2022.09 ~ 2022.12)</li>
+    <li>이화여자대학교 학보사 사진기자 (2022 상반기)</li>
     <li>제 3회 OUTTA AI bootcamp (2024.07 ~ 2024.08)</li>
     <li>University MakeUs Challenge(UMC) Ewha 7th : Server (2024.09 ~ 2025.02)</li>
   </ul>
