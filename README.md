@@ -38,6 +38,7 @@
     <li>이화여자대학교 학보사 사진기자 (2022 상반기)</li>
     <li>제 3회 OUTTA AI bootcamp (2024.07 ~ 2024.08)</li>
     <li>University MakeUs Challenge(UMC) Ewha 7th : Server (2024.09 ~ 2025.02)</li>
+    <li>이화여자대학교 데이터분석/AI 동아리 Euron (2025.03 ~ 2025.08)</li>
   </ul>
 </div>
 
