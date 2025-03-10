@@ -4,7 +4,14 @@
   <h4>Language</h4>
     <img src="https://img.shields.io/badge/Java-F89820?style=for-the-badge&logo=OpenJDK&logoColor=white">
     <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=C&logoColor=white">
+    <img src="https://img.shields.io/badge/C++-00566B?style=for-the-badge&logo=C++n&logoColor=white">
     <img src="https://img.shields.io/badge/Python-4B8BBE?style=for-the-badge&logo=Python&logoColor=white">
+    <br>
+
+  <h4>Libraries</h4>
+    <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=NumPy&logoColor=white">
+    <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=Pandas&logoColor=white">
+    <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white">
     <br>
   
   <h4>Frameworks</h4>
@@ -12,12 +19,10 @@
     <img src="https://img.shields.io/badge/Spring Boot-34A853?style=for-the-badge&logo=Spring Boot&logoColor=white">
     <br>
     <img src="https://img.shields.io/badge/Spring Security-3A6351?style=for-the-badge&logo=Spring Security&logoColor=white">
-    <h4>Template engines</h4>
-    <img src="https://img.shields.io/badge/Thymeleaf-005F0F?style=for-the-badge&logo=Thymeleaf&logoColor=white">
-    <br>
 
   <h4>Databases</h4>
     <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white">
+    <img src="https://img.shields.io/badge/Redis-2242B1?style=for-the-badge&logo=Redis&logoColor=white">
     <img src="https://img.shields.io/badge/H2-316192?style=for-the-badge&logo=H2&logoColor=white">
     <br>
 
@@ -38,7 +43,7 @@
     <li>이화여자대학교 학보사 사진기자 (2022 상반기)</li>
     <li>제 3회 OUTTA AI bootcamp (2024.07 ~ 2024.08)</li>
     <li>University MakeUs Challenge(UMC) Ewha 7th : Server (2024.09 ~ 2025.02)</li>
-    <li>이화여자대학교 데이터분석/AI 동아리 Euron : Deep Learning (2025.03 ~ 2025.08)</li>
+    <li>이화여자대학교 데이터분석/AI 동아리 Euron : Deep Learning (2025.03 ~ 현재)</li>
   </ul>
 </div>
 
