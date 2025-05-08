@@ -2,40 +2,31 @@
   <h2>💻 Tech Stacks 💻</h2>
 
   <h4>Language</h4>
-  <ul>
-    <li><img src="https://img.shields.io/badge/Java-F89820?style=for-the-badge&logo=OpenJDK&logoColor=white"></li>
-    <li><img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=C&logoColor=white"></li>
-    <li><img src="https://img.shields.io/badge/C++-00566B?style=for-the-badge&logo=cplusplus&logoColor=white"></li>
-    <li><img src="https://img.shields.io/badge/Python-4B8BBE?style=for-the-badge&logo=Python&logoColor=white"></li>
-  </ul>
+  <img src="https://img.shields.io/badge/Java-F89820?style=for-the-badge&logo=OpenJDK&logoColor=white">
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=C&logoColor=white">
+  <img src="https://img.shields.io/badge/C++-00566B?style=for-the-badge&logo=cplusplus&logoColor=white">
+  <img src="https://img.shields.io/badge/Python-4B8BBE?style=for-the-badge&logo=Python&logoColor=white">
 
   <h4>Libraries</h4>
-  <ul>
-    <li><img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=NumPy&logoColor=white"></li>
-    <li><img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=Pandas&logoColor=white"></li>
-    <li><img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white"></li>
-  </ul>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=NumPy&logoColor=white">
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=Pandas&logoColor=white">
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white">
 
   <h4>Frameworks</h4>
-  <ul>
-    <li><img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white"></li>
-    <li><img src="https://img.shields.io/badge/Spring Boot-34A853?style=for-the-badge&logo=Spring Boot&logoColor=white"></li>
-    <li><img src="https://img.shields.io/badge/Spring Security-3A6351?style=for-the-badge&logo=Spring Security&logoColor=white"></li>
-  </ul>
+  <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white">
+  <img src="https://img.shields.io/badge/Spring Boot-34A853?style=for-the-badge&logo=SpringBoot&logoColor=white">
+  <img src="https://img.shields.io/badge/Spring Security-3A6351?style=for-the-badge&logo=Spring&logoColor=white">
 
   <h4>Databases</h4>
-  <ul>
-    <li><img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white"></li>
-    <li><img src="https://img.shields.io/badge/Redis-2242B1?style=for-the-badge&logo=Redis&logoColor=white"></li>
-    <li><img src="https://img.shields.io/badge/H2-316192?style=for-the-badge&logo=H2&logoColor=white"></li>
-  </ul>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
+  <img src="https://img.shields.io/badge/Redis-2242B1?style=for-the-badge&logo=Redis&logoColor=white">
+  <img src="https://img.shields.io/badge/H2-316192?style=for-the-badge&logo=H2&logoColor=white">
 
   <h4>Collaboration Tools</h4>
-  <ul>
-    <li><img src="https://img.shields.io/badge/GitHub Actions-2088FF?style=for-the-badge&logo=GitHub Actions&logoColor=white"></li>
-    <li><img src="https://img.shields.io/badge/Git-E44C30?style=for-the-badge&logo=Git&logoColor=white"></li>
-  </ul>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white">
+  <img src="https://img.shields.io/badge/Git-E44C30?style=for-the-badge&logo=Git&logoColor=white">
 </div>
+
 
 
 </div>
