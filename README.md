@@ -26,6 +26,11 @@
 <img src="https://img.shields.io/badge/GitHub-24292F?style=flat&logo=github&logoColor=white"/>
 <img src="https://img.shields.io/badge/Git-E84E31?style=flat&logo=git&logoColor=white"/>
 
+<h4>DevOps / Deployment</h4>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/Nginx-009639?style=flat&logo=nginx&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white"/>
+
 </div>
 
 <br/>
