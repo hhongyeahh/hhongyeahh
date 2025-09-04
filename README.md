@@ -38,7 +38,7 @@
 <!-- 🎓 Education & Experience Section -->
 <div align="center">
   <h2>🎓 Education & Experience</h2>
-  이화여자대학교 데이터분석/AI 동아리 Euron : Deep Learning  <sub><span style="color:gray">2025.03 ~ 현재</span></sub><br>
+  이화여자대학교 데이터분석/AI 동아리 Euron : Deep Learning  <sub><span style="color:gray">2025.03 ~ 2025.08</span></sub><br>
   University MakeUs Challenge (UMC) Ewha 7th : Server  <sub><span style="color:gray">2024.09 ~ 2025.02</span></sub><br>
   제 3회 OUTTA AI Bootcamp  <sub><span style="color:gray">2024.07 ~ 2024.08</span></sub><br>
   이화여자대학교 학보사 : 사진기자  <sub><span style="color:gray">2022 상반기</span></sub><br>
